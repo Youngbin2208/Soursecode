@@ -19,11 +19,11 @@ void loop() {
         data = BT.read();   // 입력된 데이터를 읽어서 변수에 저장하기
     }
     if(data == '0') { // data == '0' 이면
-        digitalWrite(LED_PIN, LOW); // LED 끄기
+        digitalWrite(LED_PIN, LOW); // 모터 끄기
         Serial.println("LED OFF");  // 시리얼 모니터에 글자출력용
     }
     else if(data == '1') { // data == '1' 이면
-        digitalWrite(LED_PIN, HIGH); // LED 켜기
+        digitalWrite(LED_PIN, HIGH); // 모터 켜기
         Serial.println("LED ON"); // 시리얼 모니터에 글자출력용
     }
     data = 0; // data 초기화
