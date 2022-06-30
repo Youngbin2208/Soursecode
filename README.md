@@ -14,6 +14,7 @@
 이메일: a66152208@gmail.com
 
 역할: 조장- 윤영빈, 소프트웨어- 배동윤, 김우섭, 하드웨어 - 정진우, 서승완
+
 깃허브: https://github.com/Youngbin2208/Soursecode
 
 3.사용 기술
