@@ -8,7 +8,7 @@
 
 2.팀 소개
 
-사진: 깃허브에 올려두었습니다.
+사진: https://drive.google.com/drive/folders/1LH_jIr_Q8_C7iM2L8cJjvu-vDUTYBRVk?usp=sharing 보실 수 있습니다.
 
 이름: 동윤, 우섭, 진우, 승완, 영빈
 
@@ -42,7 +42,7 @@
 
 영빈 - 라즈4+ 카메라모듈 = 24시간 표시 및 부착 (노트북 관리), 배선 정리, putty (pc통신) 우섭 - 아두이노 온습도 개발+lcd = 24시간 표시 및 부착 동윤 - 앱인벤터(온습도 센서) 블록 (s/w) 승완 - 기구부 조립 및 구멍 작업, 수중펌프 220v 부착, LED(상부)부착 진우 - 기구부 조립, 아이디어(호스 구멍 크기, 위치), 시연, 디자인 삼단 설계, ppt(중간 ppt, 발표), 배선 정리
 
-6.사용자 수행 흐름도 깃허브에 순서도를 올려 두었습니다.
+6.사용자 수행 흐름도 https://drive.google.com/drive/folders/1EQzdAtQyhDtsJJ3lnDunH4VThvKUzLkn?usp=sharing 보실 수 있습니다.
 
 7.프로젝트 추진 결과
 
